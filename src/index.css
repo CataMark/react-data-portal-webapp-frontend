@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header .pi {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+#nav-toggler .pi{
+    font-size: 1.7rem;
+}
+
+#app-navigation .p-panelmenu-header-link {
+    padding: .75rem 1.25rem;
+}
+
+#app-navigation .p-panelmenu-content {
+    padding: 0;
+}
